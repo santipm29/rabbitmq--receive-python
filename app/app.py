@@ -3,9 +3,7 @@ import json
 from rabbitmq import RabbitMQ
 
 class App:
-    '''clase novedades dependencias'''
-    dependencias = None
-    ibmmqobj = None
+    '''class Application'''
 
     @classmethod
     def __init__(cls):
