@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Test
 ```bash
-py .\main.py
+py .\app\app.py
 ```
 
 ## Build image with Docker
