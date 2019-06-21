@@ -1,0 +1,8 @@
+{
+  "source":{
+    "host":"host",
+    "virtualhost":"virtualhost",
+    "port":"port",
+    "queue":"queue"
+  }
+}
